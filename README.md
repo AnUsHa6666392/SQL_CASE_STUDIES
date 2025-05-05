@@ -1,45 +1,87 @@
 # SQL_CASE_STUDIES
 SQL SOLVED CASE STUDIES
-This repository showcases eight comprehensive SQL case studies where I applied Exploratory Data Analysis (EDA) techniques to extract insights and perform business analysis. Each project is focused on solving real-world data problems using advanced SQL queries and structured analysis.
+
+ Exploratory Data Analysis (EDA) 
+ Welcome to my SQL Case Studies Portfolio, where I demonstrate hands-on SQL skills by solving 8 real-world business problems across various industries. These projects cover data cleaning, transformation, analysis, business intelligence, and decision-making using SQL.
+
 Case Studies Included
-Balanced Tree Clothing Co – Sales and inventory optimization.
+Balanced Tree Clothing Co.
 
-Data Bank – Customer segmentation and transaction trends.
+Focus: Product sales analysis, inventory insights, and retail KPIs.
 
-Data Mart – Loyalty program and product analysis.
+Highlights: Sales aggregation, customer behavior, product segmentation.
 
-Foodie-Fi – Subscription pricing model and churn analysis.
+Data Bank
 
-Fresh Segments – Customer cohort analysis and segmentation.
+Focus: Banking user engagement and usage metrics.
 
-Pizza Runner – Operations and delivery analytics.
+Highlights: Session analytics, churn rate calculation, usage frequency.
 
-Clique Bait – Content performance and user engagement.
+Data Mart
 
-Heart Attack Prediction (India) – Health dataset analysis using SQL.
+Focus: Weekly customer transactions and behavior across product categories.
 
- Key Techniques Used
-Data Cleaning & Preprocessing
+Highlights: CTEs, customer segmentation, calendar joins.
 
-Joins, CTEs, Window Functions
+Foodie-Fi
 
-Aggregations and Filtering
+Focus: Subscription-based food delivery analysis.
 
-Business and Domain-Specific KPIs
+Highlights: Pricing model evaluation, plan transitions, churn prediction.
 
-Time-Series and Trend Analysis
+Fresh Segments
 
-Customer Segmentation & Retention Analysis
+Focus: Targeted marketing segmentation for a customer database.
 
-EDA Workflow
-Understanding the schema
+Highlights: Customer persona classification, campaign performance.
 
-Data profiling (counts, NULLs, types)
+Pizza Runner
 
-Business question framing
+Focus: Order fulfillment, delivery time analysis, runner performance.
 
-SQL query development
+Highlights: Data cleaning, filtering, KPI calculation.
 
-Insights generation
+Clique Bait
 
-Optional visualizations (if exported to notebooks)
+Focus: Click-through rate (CTR), campaign performance, A/B testing.
+
+Highlights: Funnel analysis, ad impressions, click engagement.
+
+Heart Attack Prediction (India)
+
+Focus: Health data exploration and risk factor identification using SQL.
+
+Highlights: Patient segmentation, correlation of lifestyle habits with heart risk.
+
+Tools & Technologies
+SQL: Core querying, CTEs, window functions, joins, aggregations
+
+DBMS: PostgreSQL / MySQL
+
+Platforms: Mode Analytics, DB Fiddle, SQLPad (for case study simulation)
+
+How to Use
+Navigate to each .sql file for the respective case study solution.
+
+Queries are modular and well-commented for readability.
+
+Each file includes question-wise SQL answers for easy reference.
+
+Learning Outcome
+Enhanced SQL query-building skills with real-world datasets.
+
+Mastered data wrangling, KPI analysis, and performance tracking.
+
+Developed data storytelling and reporting skills using only SQL.
+
+ Repository Structure
+ 📦sql-case-studies/
+ ┣ 📄 balanced_tree_clothing_co.sql
+ ┣ 📄 data_bank.sql
+ ┣ 📄 data_mart.sql
+ ┣ 📄 foodie_fi.sql
+ ┣ 📄 fresh_segments.sql
+ ┣ 📄 pizza_runner.sql
+ ┣ 📄 clique_bait.sql
+ ┣ 📄 heart_attack_prediction_india.sql
+ ┗ 📄 README.md
