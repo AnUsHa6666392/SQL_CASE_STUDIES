@@ -1,9 +1,45 @@
 # SQL_CASE_STUDIES
 SQL SOLVED CASE STUDIES
-Solved 8 SQL case studies: Balanced Tree, Clothing, Data Bank & Data Mart, Foodie-Fi, Fresh Segment, Pizza Runner, Clique Bait, and Heart Attack Prediction (India).
+This repository showcases eight comprehensive SQL case studies where I applied Exploratory Data Analysis (EDA) techniques to extract insights and perform business analysis. Each project is focused on solving real-world data problems using advanced SQL queries and structured analysis.
+Case Studies Included
+Balanced Tree Clothing Co – Sales and inventory optimization.
 
-Wrote advanced SQL queries for data cleaning, aggregation, and analytical insights.
+Data Bank – Customer segmentation and transaction trends.
 
-Performed EDA using Python on datasets like Ames Housing, Netflix Titles, Car Crashes, Heart Attack (India), Hotel Booking, and Social Media.
+Data Mart – Loyalty program and product analysis.
 
-Utilized Pandas, Matplotlib, Seaborn, and NumPy for data wrangling, visualization, and trend analysis.
+Foodie-Fi – Subscription pricing model and churn analysis.
+
+Fresh Segments – Customer cohort analysis and segmentation.
+
+Pizza Runner – Operations and delivery analytics.
+
+Clique Bait – Content performance and user engagement.
+
+Heart Attack Prediction (India) – Health dataset analysis using SQL.
+
+ Key Techniques Used
+Data Cleaning & Preprocessing
+
+Joins, CTEs, Window Functions
+
+Aggregations and Filtering
+
+Business and Domain-Specific KPIs
+
+Time-Series and Trend Analysis
+
+Customer Segmentation & Retention Analysis
+
+EDA Workflow
+Understanding the schema
+
+Data profiling (counts, NULLs, types)
+
+Business question framing
+
+SQL query development
+
+Insights generation
+
+Optional visualizations (if exported to notebooks)
